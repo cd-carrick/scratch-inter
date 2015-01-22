@@ -21,6 +21,8 @@ Select the relevant .sb2 file from this repository
 running-race.sb2
 --------------
 
+Click Start to see the cats have a race. The first one to the finish line wins! Try it multiple times, and try to guess each time which cat will win.
+
 This project is a progression from the scrolling background in the scratch-intro repo. In the introduction project, the scrolling background is acheived by linking to together a series of sprites. In this project, a single background sprite is used, which clones itself to create infinite scrolling. This is combined with a background to create a smooth scrolling effect.
 
 The project also explores randomness, broadcasts and events.
